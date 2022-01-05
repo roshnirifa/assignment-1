@@ -46,4 +46,31 @@ section{
 .scroll{
     margin-top: 50px;
 }
+.my-mission{
+    display: flex;
+    
+}
+.my-mission h2{
+    font-size: 25px;
+}
+.mission-item{
+    
+    width: 46%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 20px;
+     border-radius: 15px;
 
+}
+.mission-item img{
+    width: 50%;
+}
+#mission{
+    background-color: #EDF5F6;
+}
+#vission{
+    background-color: #FFEEEE;
+}
+#goal{
+    background-color: #FFF4D6;
+}
