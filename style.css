@@ -41,7 +41,7 @@ p{
    margin-left: 40px;
 }
 .text-color{
-    color: #FFAD5A;
+    color: #17D5CB;
     
 }
 .button-link{
@@ -111,27 +111,23 @@ p{
    
 }
 /* corona app */
-.corona-app{
+.e-hospital-app{
     display: flex;
     padding:10% 20%;
     
 }
-.corona-app img{
-    width: 100%;
+.e-hospital-app img{
+    width: 180%;
+    margin-top: 30px;
    
 }
-.app-img{
-    background-image: url(images/shapes/shape-3.png);
-    background-repeat: no-repeat;
-    background-size: 60px;
-    background-position: top;
-}
+
 .app-description h1{
-    font-size: 40px;
+    font-size: 50px;
 }
 
 .app-description{
-    margin-left: 150px;
+    margin-left: 250px;
 }
 /* footer */
 footer{
