@@ -1,6 +1,7 @@
 body{
     margin: 0 auto;
     padding: 0;
+    font-family: 'Bona Nova', serif;
 }
 .header-name{
     border-left: 5px solid  #FF5959;
@@ -90,8 +91,8 @@ p{
     padding: 0% 10%;
   
 }
-.develop h1{
-    line-height: 20px;
+ h1{
+    line-height: 30px;
     font-size: 40px;
 
 }
@@ -108,6 +109,29 @@ p{
     display: flex;
     padding: 0% 10%;
    
+}
+/* corona app */
+.corona-app{
+    display: flex;
+    padding:10% 20%;
+    
+}
+.corona-app img{
+    width: 100%;
+   
+}
+.app-img{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 60px;
+    background-position: top;
+}
+.app-description h1{
+    font-size: 40px;
+}
+
+.app-description{
+    margin-left: 150px;
 }
 /* footer */
 footer{
